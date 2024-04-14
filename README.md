@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rashap Goyal</h1>
-<h3 align="center">Passionate Indian Full-Stack Dev | Always Learning, Always Hacking</h3>
+<h3 align="center">Passionate Indian Full-Stack Dev | Always Learning, Always Hacking https://camo.githubusercontent.com/5352b6b2b973a416adb9f788796e6e861e6ff286d2d83780df8ef7d90d4ca349/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashap224&label=Profile%20views&color=0e75b6&style=flat" alt="rashap224" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashap224" alt="rashap224" /></a> </p>
 
 - 🔭 I’m currently working on **MERN Project**
 
