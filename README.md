@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rashap Goyal</h1>
-<h3 align="center">Passionate Indian Full-Stack Dev | Always Learning, Always Hacking :computer:
-  <br>
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-</h3>
+<p style="text-align: center; margin-bottom: 20px;">Passionate Indian Full-Stack Dev | Always Learning, Always Hacking :computer:</p>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashap224&label=Profile%20views&color=0e75b6&style=flat" alt="rashap224" /> </p>
