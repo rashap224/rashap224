@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **MERN Project**
 
-- 🌱 I’m currently learning **React Native, Next.js and Appwrite**
+- 🌱 I’m currently learning **React Native, Next.js**
 
 - 👯 I’m looking to collaborate on **Frontend projects**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rashapgoyal224@gmail.com**
 
-- ⚡ Fun fact **Coffee Keeps the Code Flowing**
+- ⚡ Fun fact: **Coffee Keeps the Code Flowing ☕️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
