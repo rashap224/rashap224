@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rashap Goyal</h1>
-<h3 align="center">Passionate Indian Full-Stack Dev | Always Learning, Always Hacking
+<h3 align="center">Passionate Indian Full-Stack Dev | Always Learning, Always Hacking :computer:
   <br>
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </h3>
