@@ -9,11 +9,7 @@
 
 - 🔭 I’m currently working on **MERN Project**
 
-- 🌱 I’m currently learning **React Native, Next.js**
-
-- 👯 I’m looking to collaborate on **Frontend projects**
-
-- 🤝 I’m looking for help with **Web development projects**
+- 👯 I’m looking to collaborate on **Frontend and Backend projects**
 
 - 💬 Ask me about **React.js and software engineering**
 
