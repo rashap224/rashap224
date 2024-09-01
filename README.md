@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend and Backend projects**
 
-- 💬 Ask me about **React.js and software engineering**
+- 💬 Ask me about **MERN, DSA and software engineering**
 
 - 📫 How to reach me **rashapgoyal224@gmail.com**
 
